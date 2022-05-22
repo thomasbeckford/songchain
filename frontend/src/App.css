@@ -1,0 +1,44 @@
+html,
+body {
+  height: 100%;
+  background: #232655;
+}
+.mainContainer {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  background: #1d1b30;
+  color: #fff;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.header {
+  width: 100%;
+  font-size: 3em;
+}
+
+.waveButton {
+  width: 100%;
+  height: 100%;
+  color: #313131;
+  font-size: 1.5em;
+  cursor: pointer;
+}
+
+.waveTotal {
+  width: 100%;
+  font-size: 1.5em;
+  margin-top: 50px;
+  color: #4d57e4;
+}
+
+.waveContainer {
+  width: 100%;
+  height: 100%;
+  margin-top: 50px;
+}
+
+.waveInput {
+}
